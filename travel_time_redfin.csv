@@ -1,0 +1,178 @@
+,ADDRESS,CITY,URL,LATITUDE,LONGITUDE,LOCATION,travel_time,travel_cost
+0,246 Monte Vista Ln,DALY CITY,http://www.redfin.com/CA/Daly-City/246-Monte-Vista-Ln-94015/home/922403,37.658315,-122.46321599999999,"37.658315,-122.46321599999999",1 hour 9 mins,$6.65
+1,1950 Evergreen Ave,San Leandro,http://www.redfin.com/CA/San-Leandro/1950-Evergreen-Ave-94577/home/1939632,37.722626500000004,-122.13685929999998,"37.722626500000004,-122.13685929999998",,
+2,9648 Dunbar Dr,Oakland,http://www.redfin.com/CA/Oakland/9648-Dunbar-Dr-94603/home/28697352,37.74118370000001,-122.1787301,"37.74118370000001,-122.1787301",,
+3,2543 Lancaster Rd,Hayward,http://www.redfin.com/CA/Hayward/2543-Lancaster-Rd-94542/home/1735096,37.6647434,-122.0515834,"37.6647434,-122.0515834",,
+4,1021 E 23rd St,Oakland,http://www.redfin.com/CA/Oakland/1021-E-23rd-St-94606/home/533684,37.7975023,-122.2410824,"37.7975023,-122.2410824",,
+5,1867 Pleasant Hill Rd,Pleasant Hill,http://www.redfin.com/CA/Pleasant-Hill/1867-Pleasant-Hill-Rd-94523/home/1887593,37.9338641,-122.08545330000001,"37.9338641,-122.08545330000001",9 hours 41 mins,$9.30
+6,1060 69Th Ave,Oakland,http://www.redfin.com/CA/Oakland/1060-69th-Ave-94621/home/1995369,37.758351,-122.193427,"37.758351,-122.193427",40 mins,$5.00
+7,10 Harbor View Dr,Richmond,http://www.redfin.com/CA/Richmond/10-Harbor-View-Dr-94804/home/1602293,37.9084159,-122.3492108,"37.9084159,-122.3492108",,
+8,14869 Midland Rd,San Leandro,http://www.redfin.com/CA/San-Leandro/14869-Midland-Rd-94578/home/1966058,37.712603200000004,-122.1233501,"37.712603200000004,-122.1233501",,
+9,26732 Gaither Way,Hayward,http://www.redfin.com/CA/Hayward/26732-Gaither-Way-94544/home/1006020,37.6386135,-122.0823686,"37.6386135,-122.0823686",,
+10,1076 24th St,Oakland,http://www.redfin.com/CA/Oakland/1076-24th-St-94607/home/18293162,37.817040000000006,-122.28178899999999,"37.817040000000006,-122.28178899999999",,
+11,1532 Via Rancho,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/1532-Via-Rancho-94580/home/1314921,37.6759053,-122.1439707,"37.6759053,-122.1439707",,
+12,1715 MacArthur Blvd,Oakland,http://www.redfin.com/CA/Oakland/1715-MacArthur-Blvd-94602/home/1329278,37.799910499999996,-122.2213585,"37.799910499999996,-122.2213585",,
+13,67 Werner Ave,Daly City,http://www.redfin.com/CA/Daly-City/67-Werner-Ave-94014/home/12225757,37.692184000000005,-122.46774350000001,"37.692184000000005,-122.46774350000001",,
+14,2122 69th Ave,Oakland,http://www.redfin.com/CA/Oakland/2122-69th-Ave-94621/home/1363281,37.765415600000004,-122.18265359999998,"37.765415600000004,-122.18265359999998",,
+15,2512 Cole St,Oakland,http://www.redfin.com/CA/Oakland/2512-Cole-St-94601/home/1817069,37.7758841,-122.1972416,"37.7758841,-122.1972416",,
+16,14271 Acapulco Rd,San Leandro,http://www.redfin.com/CA/San-Leandro/14271-Acapulco-Rd-94577/home/1765258,37.6940947,-122.1789287,"37.6940947,-122.1789287",,
+17,27442 Capri Ave,Hayward,http://www.redfin.com/CA/Hayward/27442-Capri-Ave-94545/home/1452007,37.6262305,-122.1044033,"37.6262305,-122.1044033",,
+18,16093 Mills Ave,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/16093-Mills-Ave-94580/home/1747890,37.691054,-122.1235497,"37.691054,-122.1235497",49 mins,$5.60
+19,2511 Bradford Ave,Hayward,http://www.redfin.com/CA/Hayward/2511-Bradford-Ave-94545/home/1011114,37.6358424,-122.1085746,"37.6358424,-122.1085746",,
+20,622 Western Dr,Point Richmond,http://www.redfin.com/CA/Richmond/622-Western-Dr-94801/home/1963143,37.928527,-122.392676,"37.928527,-122.392676",,
+21,1035 Via Palma,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/1035-Via-Palma-94580/home/1420002,37.6692445,-122.12827479999999,"37.6692445,-122.12827479999999",,
+22,4812 Walnut St,Oakland,http://www.redfin.com/CA/Oakland/4812-Walnut-St-94619/home/1422517,37.7797326,-122.19941409999998,"37.7797326,-122.19941409999998",,
+23,145 Elysian Fields Dr,Oakland,http://www.redfin.com/CA/Oakland/145-Elysian-Fields-Dr-94605/home/601451,37.7601448,-122.13668179999999,"37.7601448,-122.13668179999999",,
+24,3917 Keller Ave,Oakland,http://www.redfin.com/CA/Oakland/3917-Keller-Ave-94605/home/1618964,37.7714254,-122.1572862,"37.7714254,-122.1572862",,
+25,2635 Havenscourt Blvd,Oakland,http://www.redfin.com/CA/Oakland/2635-Havenscourt-Blvd-94605/home/570658,37.76829179999999,-122.18398390000002,"37.76829179999999,-122.18398390000002",,
+26,1920 Bandoni Ave,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/1920-Bandoni-Ave-94580/home/935289,37.667190999999995,-122.14326940000001,"37.667190999999995,-122.14326940000001",,
+27,411 Elmwood Ln,Hayward,http://www.redfin.com/CA/Hayward/411-Elmwood-Ln-94541/home/954733,37.6632081,-122.1026283,"37.6632081,-122.1026283",,
+28,1339 Hermosa Ave,PACIFICA,http://www.redfin.com/CA/Pacifica/1339-Hermosa-Ave-94044/home/658347,37.5892105,-122.49676170000001,"37.5892105,-122.49676170000001",1 hour 17 mins,$6.25
+29,692 Hutchings Dr,SAN LEANDRO,http://www.redfin.com/CA/San-Leandro/692-Hutchings-Dr-94577/home/1403077,37.724393799999994,-122.17759840000002,"37.724393799999994,-122.17759840000002",1 hour 0 mins,$5.40
+30,15538 Lorenzo Ave,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/15538-Lorenzo-Ave-94580/home/542301,37.6840444,-122.13884909999999,"37.6840444,-122.13884909999999",,
+31,1872 E St,Hayward,http://www.redfin.com/CA/Hayward/1872-E-St-94541/home/1349477,37.6747456,-122.06334809999998,"37.6747456,-122.06334809999998",,
+32,4804 Seaview Ave,Castro Valley,http://www.redfin.com/CA/Castro-Valley/4804-Seaview-Ave-94546/home/1633213,37.714079999999996,-122.073299,"37.714079999999996,-122.073299",,
+33,2251 Sol St,San Leandro,http://www.redfin.com/CA/San-Leandro/2251-Sol-St-94578/home/793629,37.712739,-122.1217972,"37.712739,-122.1217972",,
+34,47 Margrave Ct,Walnut Creek,http://www.redfin.com/CA/Walnut-Creek/47-Margrave-Ct-94597/home/852997,37.9184834,-122.07535559999998,"37.9184834,-122.07535559999998",1 hour 40 mins,$8.70
+35,6825 Armour Dr,Oakland,http://www.redfin.com/CA/Oakland/6825-Armour-Dr-94611/home/2014048,37.837223,-122.2037147,"37.837223,-122.2037147",,
+36,6509 Canyon Trl,El Cerrito,http://www.redfin.com/CA/El-Cerrito/6509-Canyon-Trl-94530/home/1136172,37.9315191,-122.31735069999999,"37.9315191,-122.31735069999999",54 mins,$5.30
+37,840 34th Ave,Oakland,http://www.redfin.com/CA/Oakland/840-34th-Ave-94601/home/1096551,37.773275500000004,-122.2258355,"37.773275500000004,-122.2258355",34 mins,$4.70
+38,31219 Fredi St,Union City,http://www.redfin.com/CA/Union-City/31219-Fredi-St-94587/home/1271561,37.593123999999996,-122.077933,"37.593123999999996,-122.077933",1 hour 24 mins,$8.75
+39,2424 Kingsland Ave,Oakland,http://www.redfin.com/CA/Oakland/2424-Kingsland-Ave-94601/home/1224168,37.773985499999995,-122.1966209,"37.773985499999995,-122.1966209",,
+40,353 S 24Th St,Richmond,http://www.redfin.com/CA/Richmond/353-S-24th-St-94804/home/1520947,37.9269935,-122.3469638,"37.9269935,-122.3469638",,
+41,1051 67Th St,Oakland,http://www.redfin.com/CA/Oakland/1051-67th-St-94608/home/1630651,37.850079,-122.28343500000001,"37.850079,-122.28343500000001",,
+42,6625 Hillmont Dr,OAKLAND,http://www.redfin.com/CA/Oakland/6625-Hillmont-Dr-94605/home/786998,37.7757076,-122.170902,"37.7757076,-122.170902",,
+43,550 E 20Th St,Oakland,http://www.redfin.com/CA/Oakland/550-E-20th-St-94606/home/1962518,37.799134499999994,-122.24726470000002,"37.799134499999994,-122.24726470000002",,
+44,8507 Thermal St,Oakland,http://www.redfin.com/CA/Oakland/8507-Thermal-St-94605/home/1975338,37.7603686,-122.1621206,"37.7603686,-122.1621206",,
+45,15023 Costela St,San Leandro,http://www.redfin.com/CA/San-Leandro/15023-Costela-St-94579/home/1438305,37.6905594,-122.15693130000001,"37.6905594,-122.15693130000001",,
+46,3300 35th Ave,Oakland,http://www.redfin.com/CA/Oakland/3300-35th-Ave-94619/home/1702306,37.7916031,-122.203759,"37.7916031,-122.203759",,
+47,1570 142nd Ave,SAN LEANDRO,http://www.redfin.com/CA/San-Leandro/1570-142nd-Ave-94578/home/734446,37.714099,-122.1359942,"37.714099,-122.1359942",,
+48,133 Mecartney Rd,Alameda,http://www.redfin.com/CA/Alameda/133-Mecartney-Rd-94502/home/1459959,37.7347301,-122.23558659999999,"37.7347301,-122.23558659999999",,
+49,8239 Golf Links Rd,Oakland,http://www.redfin.com/CA/Oakland/8239-Golf-Links-Rd-94605/home/1422808,37.762401399999995,-122.16340679999999,"37.762401399999995,-122.16340679999999",,
+50,2975 Cesar Chavez,San Francisco,http://www.redfin.com/CA/San-Francisco/2975-Cesar-Chavez-94110/home/1231917,37.748130100000004,-122.409255,"37.748130100000004,-122.409255",25 mins,$3.00
+51,1522 Felton St,San Francisco,http://www.redfin.com/CA/San-Francisco/1522-Felton-St-94134/home/1543739,37.7262326,-122.41993719999999,"37.7262326,-122.41993719999999",47 mins,$3.00
+52,16067 Via Toledo,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/16067-Via-Toledo-94580/home/1751162,37.681411499999996,-122.12062140000002,"37.681411499999996,-122.12062140000002",,
+53,9411 Castlewood St,Oakland,http://www.redfin.com/CA/Oakland/9411-Castlewood-St-94605/home/843944,37.7560687,-122.1527176,"37.7560687,-122.1527176",,
+54,252 Florida Ave,SAN BRUNO,http://www.redfin.com/CA/San-Bruno/252-Florida-Ave-94066/home/642430,37.6223473,-122.40884229999999,"37.6223473,-122.40884229999999",,
+55,3200 Guido St,Oakland,http://www.redfin.com/CA/Oakland/3200-Guido-St-94602/home/542669,37.8041754,-122.19271909999999,"37.8041754,-122.19271909999999",,
+56,3044 El Monte Ave,Oakland,http://www.redfin.com/CA/Oakland/3044-El-Monte-Ave-94605/home/1363379,37.764511,-122.1589273,"37.764511,-122.1589273",,
+57,2624 INYO Ave,Oakland,http://www.redfin.com/CA/Oakland/2624-Inyo-Ave-94601/home/22718575,37.792353000000006,-122.22661699999999,"37.792353000000006,-122.22661699999999",,
+58,19212 Center St,Castro Valley,http://www.redfin.com/CA/Castro-Valley/19212-Center-St-94546/home/2027911,37.703281,-122.06041809999999,"37.703281,-122.06041809999999",,
+59,25849 Calaroga Ave,Hayward,http://www.redfin.com/CA/Hayward/25849-Calaroga-Ave-94545/home/1391629,37.6411096,-122.0993444,"37.6411096,-122.0993444",,
+60,3254 Arkansas St,Oakland,http://www.redfin.com/CA/Oakland/3254-Arkansas-St-94602/home/1040866,37.794129299999994,-122.20659640000001,"37.794129299999994,-122.20659640000001",,
+61,1421 Richmond St,El Cerrito,http://www.redfin.com/CA/El-Cerrito/1421-Richmond-St-94530/home/1138372,37.9197244,-122.30944509999999,"37.9197244,-122.30944509999999",55 mins,$5.30
+62,5968 Marshall St,Oakland,http://www.redfin.com/CA/Oakland/5968-Marshall-St-94608/home/570510,37.843644899999994,-122.2846836,"37.843644899999994,-122.2846836",,
+63,8715 Thermal St,Oakland,http://www.redfin.com/CA/Oakland/8715-Thermal-St-94605/home/584608,37.7579633,-122.1613223,"37.7579633,-122.1613223",,
+64,1628 Acton St,Berkeley,http://www.redfin.com/CA/Berkeley/1628-Acton-St-94702/home/869401,37.874966,-122.2850048,"37.874966,-122.2850048",38 mins,$4.95
+65,1740 Cottage Grove Ave,San Mateo,http://www.redfin.com/CA/San-Mateo/1740-Cottage-Grove-Ave-94401/home/2044164,37.5701096,-122.30187109999999,"37.5701096,-122.30187109999999",,
+66,2488 Savannah Ct,Oakland,http://www.redfin.com/CA/Oakland/2488-Savannah-Ct-94605/home/1968733,37.7543959,-122.161278,"37.7543959,-122.161278",,
+67,1475 Vía La Paloma,SAN LORENZO,http://www.redfin.com/CA/San-Lorenzo/1475-Via-La-Paloma-94580/home/1876510,37.674600500000004,-122.14051909999999,"37.674600500000004,-122.14051909999999",,
+68,9323 Burr St,Oakland,http://www.redfin.com/CA/Oakland/9323-Burr-St-94605/home/1881290,37.7544283,-122.1578628,"37.7544283,-122.1578628",,
+69,6167 Overdale Ave,Oakland,http://www.redfin.com/CA/Oakland/6167-Overdale-Ave-94605/home/1363156,37.779754700000005,-122.1751815,"37.779754700000005,-122.1751815",,
+70,3631 Hageman Ave,Oakland,http://www.redfin.com/CA/Oakland/3631-Hageman-Ave-94619/home/1881720,37.7893269,-122.20486740000001,"37.7893269,-122.20486740000001",,
+71,25531 Franklin Ave,Hayward,http://www.redfin.com/CA/Hayward/25531-Franklin-Ave-94544/home/1947905,37.6514359,-122.0773086,"37.6514359,-122.0773086",,
+72,1330 148Th Ave,San Leandro,http://www.redfin.com/CA/San-Leandro/1330-148th-Ave-94578/home/1370126,37.707702000000005,-122.13444150000001,"37.707702000000005,-122.13444150000001",,
+73,21143 Ashfield Ave,Castro Valley,http://www.redfin.com/CA/Castro-Valley/21143-Ashfield-Ave-94546/home/1568840,37.6918824,-122.0787956,"37.6918824,-122.0787956",45 mins,$5.95
+74,2240 64Th Ave,Oakland,http://www.redfin.com/CA/Oakland/2240-64th-Ave-94605/home/570857,37.7665854,-122.19001399999999,"37.7665854,-122.19001399999999",,
+75,2328 14Th Ave,Oakland,http://www.redfin.com/CA/Oakland/2328-14th-Ave-94606/home/534539,37.7949404,-122.2372709,"37.7949404,-122.2372709",,
+76,15699 Liberty St,SAN LEANDRO,http://www.redfin.com/CA/San-Leandro/15699-Liberty-St-94578/home/57179978,37.7053597,-122.1185582,"37.7053597,-122.1185582",58 mins,$5.60
+77,5423 Highland Ave,Richmond,http://www.redfin.com/CA/Richmond/5423-Highland-Ave-94804/home/1239245,37.915031400000004,-122.3180814,"37.915031400000004,-122.3180814",59 mins,$5.30
+78,23911 Pinnacles Ct,Hayward,http://www.redfin.com/CA/Hayward/23911-Pinnacles-Ln-94541/home/1333533,37.6787435,-122.05335929999998,"37.6787435,-122.05335929999998",,
+79,16162 Silverleaf Dr,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/16162-Silverleaf-Dr-94580/home/1282015,37.6952872,-122.1197562,"37.6952872,-122.1197562",47 mins,$5.60
+80,21249 Ocean View Dr,Hayward,http://www.redfin.com/CA/Hayward/21249-Ocean-View-Dr-94541/home/950892,37.68382929999999,-122.0945071,"37.68382929999999,-122.0945071",,
+81,7900 Michigan Ave,Oakland,http://www.redfin.com/CA/Oakland/7900-Michigan-Ave-94605/home/577169,37.7678652,-122.1621206,"37.7678652,-122.1621206",,
+82,28653 Triton St,Hayward,http://www.redfin.com/CA/Hayward/28653-Triton-St-94544/home/2004239,37.6293095,-122.0636588,"37.6293095,-122.0636588",1 hour 6 mins,$6.25
+83,3237 Ridge Crest Ct,Hayward,http://www.redfin.com/CA/Hayward/3237-Ridge-Crest-Ct-94541/home/2033822,37.683991,-122.04874199999999,"37.683991,-122.04874199999999",,
+84,18042 redwood,Castro Valley,http://www.redfin.com/CA/Castro-Valley/18042-Redwood-Rd-94546/home/825908,37.7136266,-122.07360220000001,"37.7136266,-122.07360220000001",,
+85,1489 Via Mesa,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/1489-Via-Mesa-94580/home/932192,37.6672255,-122.1353509,"37.6672255,-122.1353509",,
+86,2685 Leeward St,Hayward,http://www.redfin.com/CA/Hayward/2685-Leeward-St-94545/home/1349475,37.6293062,-122.10449209999999,"37.6293062,-122.10449209999999",,
+87,15897 Hesperian Blvd,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/15897-Hesperian-Blvd-94580/home/686801,37.6807908,-122.12807520000001,"37.6807908,-122.12807520000001",,
+88,1716 96th Ave,Oakland,http://www.redfin.com/CA/Oakland/1716-96th-Ave-94603/home/170015630,37.747287,-122.16761699999999,"37.747287,-122.16761699999999",,
+89,1120 Roxanne Ave,Hayward,http://www.redfin.com/CA/Hayward/1120-Roxanne-Ave-94542/home/1735620,37.6656289,-122.0727145,"37.6656289,-122.0727145",1 hour 16 mins,$5.95
+90,328 S 8th St,Richmond,http://www.redfin.com/CA/Richmond/328-S-8th-St-94804/home/653193,37.9274999,-122.36173959999999,"37.9274999,-122.36173959999999",,
+91,2217 Buena Vista Ave,San Leandro,http://www.redfin.com/CA/San-Leandro/2217-Buena-Vista-Ave-94577/home/1973482,37.7169311,-122.15043329999999,"37.7169311,-122.15043329999999",51 mins,$5.40
+92,1252 Pearl St,Alameda,http://www.redfin.com/CA/Alameda/1252-Pearl-St-94501/unit-C/home/1621742,37.75949310000001,-122.2393872,"37.75949310000001,-122.2393872",,
+93,9412 Tanner Way,Oakland,http://www.redfin.com/CA/Oakland/9412-Tanner-Way-94603/home/22693430,37.7436886,-122.1799043,"37.7436886,-122.1799043",,
+94,24429 Calaveras Rd,Hayward,http://www.redfin.com/CA/Hayward/24429-Calaveras-Rd-94545/home/1827297,37.6489917,-122.10884080000001,"37.6489917,-122.10884080000001",,
+95,2905 Magnolia St,Oakland,http://www.redfin.com/CA/Oakland/2905-Magnolia-St-94608/home/168796810,37.821656,-122.283424,"37.821656,-122.283424",,
+96,422 Carlson Blvd,Richmond,http://www.redfin.com/CA/Richmond/422-Carlson-Blvd-94804/home/171561718,37.9257458,-122.33840729999999,"37.9257458,-122.33840729999999",,
+97,33 Mccarthy Ave,SAN FRANCISCO,http://www.redfin.com/CA/San-Francisco/33-McCarthy-Ave-94134/home/788772,37.710173600000005,-122.41397509999999,"37.710173600000005,-122.41397509999999",47 mins,$3.00
+98,1574 Welford Cir,HAYWARD,http://www.redfin.com/CA/Hayward/1574-Welford-Cir-94544/home/1430951,37.6184067,-122.0674321,"37.6184067,-122.0674321",,
+99,19544 Santa Maria Ave,Castro Valley,http://www.redfin.com/CA/Castro-Valley/19544-Santa-Maria-Ave-94546/home/1346670,37.702251700000005,-122.0783517,"37.702251700000005,-122.0783517",1 hour 0 mins,$5.95
+100,2875 Ford St,Oakland,http://www.redfin.com/CA/Oakland/2875-Ford-St-94601/home/40628541,37.7727862,-122.2342459,"37.7727862,-122.2342459",41 mins,$4.70
+101,2002 96Th Ave,Oakland,http://www.redfin.com/CA/Oakland/2002-96th-Ave-94603/home/594307,37.7487097,-122.1647928,"37.7487097,-122.1647928",,
+102,16139 Via Sonora,San Lorenzo,http://www.redfin.com/CA/San-Lorenzo/16139-Via-Sonora-94580/home/700236,37.6722321,-122.1411845,"37.6722321,-122.1411845",,
+103,4576 Laura Way,Union City,http://www.redfin.com/CA/Union-City/4576-Laura-Way-94587/home/1038322,37.5787925,-122.07089450000001,"37.5787925,-122.07089450000001",1 hour 37 mins,$8.75
+104,65 Sandpoint Dr,Richmond,http://www.redfin.com/CA/Richmond/65-Sandpoint-Dr-94804/home/1187452,37.9087019,-122.3459787,"37.9087019,-122.3459787",,
+105,4009 Market St,Oakland,http://www.redfin.com/CA/Oakland/4009-Market-St-94608/home/528013,37.8310122,-122.27413940000001,"37.8310122,-122.27413940000001",37 mins,$4.45
+106,3750 Mcclelland St,Oakland,http://www.redfin.com/CA/Oakland/3750-McClelland-St-94619/home/1716480,37.7851394,-122.18571329999999,"37.7851394,-122.18571329999999",,
+107,142 Edinburgh St,SAN FRANCISCO,http://www.redfin.com/CA/San-Francisco/142-Edinburgh-St-94112/home/1543895,37.7268617,-122.4279784,"37.7268617,-122.4279784",31 mins,$3.00
+108,3110 Adeline St #115,Oakland,http://www.redfin.com/CA/Oakland/3110-Adeline-St-94608/unit-115/home/2114770,37.8227361,-122.28082409999999,"37.8227361,-122.28082409999999",,
+109,14950 Lark St,San Leandro,http://www.redfin.com/CA/San-Leandro/14950-Lark-St-94578/home/1592109,37.708813899999996,-122.12734309999999,"37.708813899999996,-122.12734309999999",,
+110,555 Sycamore St,Oakland,http://www.redfin.com/CA/Oakland/555-Sycamore-St-94612/home/525503,37.81509929999999,-122.26979740000002,"37.81509929999999,-122.26979740000002",35 mins,$4.20
+111,322 Ashton Ave,Oakland,http://www.redfin.com/CA/Oakland/322-Ashton-Ave-94603/home/1649668,37.7346268,-122.187487,"37.7346268,-122.187487",,
+112,69 Seagull Dr,Richmond,http://www.redfin.com/CA/Richmond/69-Seagull-Dr-94804/home/1953587,37.910788200000006,-122.34124109999999,"37.910788200000006,-122.34124109999999",,
+113,4419 Tulip Ave,Oakland,http://www.redfin.com/CA/Oakland/4419-Tulip-Ave-94619/home/1654682,37.7877776,-122.19112290000001,"37.7877776,-122.19112290000001",,
+114,2244 109Th Ave,Oakland,http://www.redfin.com/CA/Oakland/2244-109th-Ave-94603/home/595233,37.7398526,-122.15427009999999,"37.7398526,-122.15427009999999",,
+115,29894 Chance St,HAYWARD,http://www.redfin.com/CA/Hayward/29894-Chance-St-94544/home/1025132,37.6250169,-122.05313729999999,"37.6250169,-122.05313729999999",1 hour 8 mins,$6.25
+116,,Richmond,http://www.redfin.com/CA/Richmond/Undisclosed-address-94804/home/1725362,37.918818,-122.32896299999999,"37.918818,-122.32896299999999",1 hour 3 mins,$5.30
+117,1215 Gomer St,HAYWARD,http://www.redfin.com/CA/Hayward/1215-Gomer-St-94544/home/1006162,37.636083899999996,-122.08172990000001,"37.636083899999996,-122.08172990000001",,
+118,3833 Midvale,Oakland,http://www.redfin.com/CA/Oakland/3833-Midvale-Ave-94602/home/1833078,37.7965629,-122.1981284,"37.7965629,-122.1981284",,
+119,2406 E 24Th St,Oakland,http://www.redfin.com/CA/Oakland/2406-E-24th-St-94601/home/1117694,37.7895365,-122.2268993,"37.7895365,-122.2268993",,
+120,2175 High St,Oakland,http://www.redfin.com/CA/Oakland/2175-High-St-94601/home/1831488,37.7784148,-122.2085027,"37.7784148,-122.2085027",,
+121,,Oakland,http://www.redfin.com/CA/Oakland/Undisclosed-address-94606/home/842253,37.79097279999999,-122.22857250000001,"37.79097279999999,-122.22857250000001",,
+122,5625 Market St,Oakland,http://www.redfin.com/CA/Oakland/5625-Market-St-94608/home/530476,37.840709000000004,-122.27444960000001,"37.840709000000004,-122.27444960000001",,
+123,1902 Barton Way,Hayward,http://www.redfin.com/CA/Hayward/1902-Barton-Way-94545/home/895445,37.6434946,-122.1155632,"37.6434946,-122.1155632",,
+124,1257 95th Ave,Oakland,http://www.redfin.com/CA/Oakland/1257-95th-Ave-94603/home/1001368,37.745632,-122.17435,"37.745632,-122.17435",,
+125,1801 Vicksburg Ave,Oakland,http://www.redfin.com/CA/Oakland/1801-Vicksburg-Ave-94601/home/556466,37.771957799999996,-122.20327140000002,"37.771957799999996,-122.20327140000002",,
+126,2326 MYRTLE St,Oakland,http://www.redfin.com/CA/Oakland/2326-Myrtle-St-94607/home/1575223,37.8158782,-122.27909050000001,"37.8158782,-122.27909050000001",,
+127,37 Seabreeze Dr,RICHMOND,http://www.redfin.com/CA/Richmond/37-Seabreeze-Dr-94804/home/1917820,37.9093628,-122.3407983,"37.9093628,-122.3407983",,
+128,414 Culp Ave,Hayward,http://www.redfin.com/CA/Hayward/414-Culp-Ave-94544/home/651860,37.6527276,-122.0758216,"37.6527276,-122.0758216",,
+129,2075 Quesada Ave,San Francisco,http://www.redfin.com/CA/San-Francisco/2075-Quesada-Ave-94124/home/1231834,37.737195,-122.39878700000001,"37.737195,-122.39878700000001",32 mins,$3.00
+130,3162 Brent Ct,Castro Valley,http://www.redfin.com/CA/Castro-Valley/3162-Brent-Ct-94546/home/715952,37.7082613,-122.09264309999999,"37.7082613,-122.09264309999999",,
+131,439 Douglas Ave,Oakland,http://www.redfin.com/CA/Oakland/439-Douglas-Ave-94603/home/1761650,37.731011200000005,-122.1822102,"37.731011200000005,-122.1822102",,
+132,16669 Winding,San Leandro,http://www.redfin.com/CA/San-Leandro/16669-Winding-Blvd-94578/home/1123642,37.6994344,-122.1008088,"37.6994344,-122.1008088",,
+133,9440 Mountain Blvd,Oakland,http://www.redfin.com/CA/Oakland/9440-Mountain-Blvd-94605/home/1870110,37.7585018,-122.147173,"37.7585018,-122.147173",,
+134,2155 42 Ave,Oakland,http://www.redfin.com/CA/Oakland/2155-42nd-Ave-94601/home/2013657,37.7784564,-122.2098327,"37.7784564,-122.2098327",50 mins,$4.70
+135,508 Monogram Rd,San Leandro,http://www.redfin.com/CA/San-Leandro/508-Monogram-Rd-94578/home/1214585,37.7035696,-122.1434912,"37.7035696,-122.1434912",,
+136,1649 72nd St,Oakland,http://www.redfin.com/CA/Oakland/1649-72nd-Ave-94621/home/528711,37.7614698,-122.18593500000001,"37.7614698,-122.18593500000001",,
+137,895 47Th St,Oakland,http://www.redfin.com/CA/Oakland/895-47th-St-94608/home/1306392,37.8357141,-122.27276599999999,"37.8357141,-122.27276599999999",44 mins,$4.45
+138,6327 E 17Th St,Oakland,http://www.redfin.com/CA/Oakland/6327-E-17th-St-94621/home/1256833,37.76413370000001,-122.1949361,"37.76413370000001,-122.1949361",52 mins,$5.00
+139,4023 Suter St,Oakland,http://www.redfin.com/CA/Oakland/4023-Suter-St-94619/home/1957436,37.787701,-122.200744,"37.787701,-122.200744",,
+140,257 Smalley Ave,Hayward,http://www.redfin.com/CA/Hayward/257-Smalley-Ave-94541/home/1925288,37.668368799999996,-122.0980574,"37.668368799999996,-122.0980574",1 hour 0 mins,$5.95
+141,2090 Hillside Dr,San Leandro,http://www.redfin.com/CA/San-Leandro/2090-Hillside-Dr-94577/home/1983812,37.723611600000005,-122.1330662,"37.723611600000005,-122.1330662",,
+142,5733 E 17,Oakland,http://www.redfin.com/CA/Oakland/5733-E-17th-St-94621/home/1891698,37.7673745,-122.19867079999999,"37.7673745,-122.19867079999999",,
+143,1364 E 32Nd St,Oakland,http://www.redfin.com/CA/Oakland/1364-E-32nd-St-94602/home/1670647,37.8004466,-122.23217379999998,"37.8004466,-122.23217379999998",,
+144,3030 Nicol Ave,Oakland,http://www.redfin.com/CA/Oakland/3030-Nicol-Ave-94602/home/1970379,37.7930161,-122.21439879999998,"37.7930161,-122.21439879999998",,
+145,"914 Blenheim St Unit 914,916",Oakland,http://www.redfin.com/CA/Oakland/914-Blenheim-St-94603/unit-914-916/home/170503888,37.7340599,-122.17232109999999,"37.7340599,-122.17232109999999",,
+146,1839 9th Ave,Oakland,http://www.redfin.com/CA/Oakland/1839-9th-Ave-94606/home/533087,37.796034399999996,-122.24634520000001,"37.796034399999996,-122.24634520000001",,
+147,2271 Washington Ave,SAN LEANDRO,http://www.redfin.com/CA/San-Leandro/2271-Washington-Ave-94577/home/170376260,37.71602120000001,-122.1510321,"37.71602120000001,-122.1510321",50 mins,$5.40
+148,3800 Magee Ave,Oakland,http://www.redfin.com/CA/Oakland/3800-Magee-Ave-94619/home/547845,37.794427500000005,-122.1970643,"37.794427500000005,-122.1970643",,
+149,27427 Patrick Ave,Hayward,http://www.redfin.com/CA/Hayward/27427-Patrick-Ave-94544/home/1374529,37.6325032,-122.07977199999999,"37.6325032,-122.07977199999999",,
+150,2634 Highland Ave,Oakland,http://www.redfin.com/CA/Oakland/2634-Highland-Ave-94606/home/1936406,37.794382899999995,-122.2295477,"37.794382899999995,-122.2295477",,
+151,22592 Pearl Ave,Hayward,http://www.redfin.com/CA/Hayward/22592-Pearl-Ave-94541/home/954531,37.6839854,-122.0645467,"37.6839854,-122.0645467",,
+152,4431 Penniman Ave,Oakland,http://www.redfin.com/CA/Oakland/4431-Penniman-Ave-94619/home/559924,37.782515000000004,-122.19945849999999,"37.782515000000004,-122.19945849999999",,
+153,10633 PEARMAIN St,Oakland,http://www.redfin.com/CA/Oakland/10633-Pearmain-St-94603/home/1727606,37.7335425,-122.1757358,"37.7335425,-122.1757358",,
+154,2726 60Th Ave,Oakland,http://www.redfin.com/CA/Oakland/2726-60th-Ave-94605/home/1363222,37.772038200000004,-122.1878417,"37.772038200000004,-122.1878417",,
+155,669 Catron Dr,Oakland,http://www.redfin.com/CA/Oakland/669-Catron-Dr-94603/home/1290037,37.7284085,-122.1720107,"37.7284085,-122.1720107",,
+156,2922 Parker Ave,Oakland,http://www.redfin.com/CA/Oakland/2922-Parker-Ave-94605/home/1963068,37.7672261,-122.1659348,"37.7672261,-122.1659348",,
+157,4344 Overend Ave,Richmond,http://www.redfin.com/CA/Richmond/4344-Overend-Ave-94804/home/1881353,37.9260938,-122.3283113,"37.9260938,-122.3283113",,
+158,2757 106thh,Oakland,http://www.redfin.com/CA/Oakland/2757-106th-Ave-94605/home/1843763,37.744493799999994,-122.1502669,"37.744493799999994,-122.1502669",,
+159,1749 24Th Ave,Oakland,http://www.redfin.com/CA/Oakland/1749-24th-Ave-94601/home/909190,37.7857576,-122.23146470000002,"37.7857576,-122.23146470000002",,
+160,24203 2nd St,Hayward,http://www.redfin.com/CA/Hayward/24203-2nd-St-94541/home/168818738,37.669989,-122.07225700000001,"37.669989,-122.07225700000001",,
+161,24205 2nd St,Hayward,http://www.redfin.com/CA/Hayward/24205-2nd-St-94541/home/168818739,37.669949,-122.072177,"37.669949,-122.072177",,
+162,24211 2nd St,Hayward,http://www.redfin.com/CA/Hayward/24211-2nd-St-94541/home/168818742,37.669828,-122.07193500000001,"37.669828,-122.07193500000001",,
+163,24215 2nd St,Hayward,http://www.redfin.com/CA/Hayward/24215-2nd-St-94541/home/168818744,37.669748,-122.071774,"37.669748,-122.071774",,
+164,Plan 3,Hayward,http://www.redfin.com/CA/Hayward/Parkside-Heights/Plan-3/home/169892129,37.6698066,-122.07297379999999,"37.6698066,-122.07297379999999",,
+165,Plan 2,Hayward,http://www.redfin.com/CA/Hayward/Parkside-Heights/Plan-2/home/169958594,37.6698066,-122.07297379999999,"37.6698066,-122.07297379999999",,
+166,Plan 1,Hayward,http://www.redfin.com/CA/Hayward/Parkside-Heights/Plan-1/home/169958596,37.6698066,-122.07297379999999,"37.6698066,-122.07297379999999",,
+167,Infinity 1000,San Francisco,http://www.redfin.com/CA/San-Francisco/Gaia-Homes/Infinity-1000/home/169599461,37.798864,-122.43771699999999,"37.798864,-122.43771699999999",18 mins,$4.50
+168,Orion 1200,San Francisco,http://www.redfin.com/CA/San-Francisco/Gaia-Homes/Orion-1200/home/169599460,37.798864,-122.43771699999999,"37.798864,-122.43771699999999",18 mins,$4.50
+169,Newport Residence 2,Newark,http://www.redfin.com/CA/Newark/Compass-Bay/Newport-Residence-2/home/171821108,37.518159999999995,-122.054325,"37.518159999999995,-122.054325",,
+170,Atlantis 975,San Francisco,http://www.redfin.com/CA/San-Francisco/Gaia-Homes/Atlantis-975/home/169599462,37.798864,-122.43771699999999,"37.798864,-122.43771699999999",18 mins,$4.50
+171,Savannah 875,San Francisco,http://www.redfin.com/CA/San-Francisco/Gaia-Homes/Savannah-875/home/169599463,37.798864,-122.43771699999999,"37.798864,-122.43771699999999",18 mins,$4.50
+172,Stellar 820,San Francisco,http://www.redfin.com/CA/San-Francisco/Gaia-Homes/Stellar-820/home/169599464,37.798864,-122.43771699999999,"37.798864,-122.43771699999999",18 mins,$4.50
+173,Residence 3 WLH,Richmond,http://www.redfin.com/CA/Richmond/Rows-at-NOMA/Residence-3-WLH/home/170540836,37.920715,-122.35547700000001,"37.920715,-122.35547700000001",,
+174,Plan 5 WLH,Hayward,http://www.redfin.com/CA/Hayward/SoHay-Line/Plan-5-WLH/home/170540844,37.632475,-122.049066,"37.632475,-122.049066",1 hour 4 mins,$6.25
+175,Plan 3 Modeled,Hayward,http://www.redfin.com/CA/Hayward/Motion-at-Mission-Crossing/Plan-3-Modeled/home/169130505,37.6478013,-122.06487959999998,"37.6478013,-122.06487959999998",,
+176,4387 Gem Ave,Castro Valley,http://www.redfin.com/CA/Castro-Valley/4387-Gem-Ave-94546/home/827610,37.6975806,-122.0591973,"37.6975806,-122.0591973",,
